@@ -11,3 +11,13 @@ You can install this package directly from its Git repository:
 ```bash
 npm i @ppica/free-port-finder
 ```
+
+## Usage
+
+```javascript
+import getAvailablePort from "@ppica/free-port-finder";
+
+(async () => {
+  console.log(await getAvailablePort(3000));
+})();
+```
