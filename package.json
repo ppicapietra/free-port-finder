@@ -1,0 +1,12 @@
+{
+  "name": "@ppica/free-port-finder",
+  "version": "1.0.0",
+
+  "description": "A NPM package to get the port number we desire, if it is free, or just the first available one",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "author": "Pablo Picapietra",
+  "license": "ISC"
+}

@@ -1,2 +1,13 @@
-# free-port-finder
-A NPM package to get the port number we desire, if it is free, or just the first available one
+# @ppica/free-port-finder
+
+## Description
+
+`@ppica/free-port-finder` is an NPM package that helps you find a desired port number if it is free, or just the first available one. This can be particularly useful for applications that need to dynamically allocate ports.
+
+## Installation
+
+You can install this package directly from its Git repository:
+
+```bash
+npm i @ppica/free-port-finder
+```
